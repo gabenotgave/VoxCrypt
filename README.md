@@ -3,13 +3,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
-
----
-
-![VoxCrypt Demo](docs/demo.png)
-
----
 
 ## Overview
 
@@ -348,7 +341,7 @@ VoxCrypt is released under the **MIT License**.
 ```text
 MIT License
 
-Copyright (c) 2026 <Your Name>
+Copyright (c) 2026 VoxCrypt Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
